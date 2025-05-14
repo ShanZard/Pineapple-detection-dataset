@@ -1,6 +1,7 @@
 ## Towards mechanized harvesting of pineapples: a masked self-attention instance segmentation network and pineapple detection dataset
 
->Towards mechanized harvesting of pineapples: a masked self-attention instance segmentation network and pineapple detection dataset   
+>Towards mechanized harvesting of pineapples: a masked self-attention instance segmentation network and pineapple detection dataset
+>Zhe Shan, Songtao Ye, Cong Lin and Zhong Xue
 >EAAI
 
 We propose a novel publicly available dataset for pineapple detection. Refer to our paper for more details.
